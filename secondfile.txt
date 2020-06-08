@@ -1,1 +1,1 @@
-changing the sublime
+git diff staging example2
